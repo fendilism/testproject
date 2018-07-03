@@ -1,0 +1,33 @@
+* {
+font-family: sans-serif
+}
+
+h2 {
+font-size: 30px;
+}
+
+h4 {
+font-size: 60px;
+color: orange;
+font-style: italics;
+}
+
+h3 {
+font-size: 30px;
+}
+
+h1 {
+font-size: 60px;
+}
+
+h5 {
+font-size: 20px;
+}
+
+h1::first-letter {
+font-size: 100px;
+} 
+
+img src="C:\Users\User\Downloads\Assignment1 Source Code\halloween_exercises\images\pumpkin.gif" {
+float: left;
+}
